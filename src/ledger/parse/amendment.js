@@ -1,3 +1,4 @@
+/* @flow */
 'use strict' // eslint-disable-line strict
 
 function parseAmendment(tx: Object) {

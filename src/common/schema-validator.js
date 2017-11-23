@@ -1,5 +1,4 @@
-// flow is disabled for this file until support for requiring json is added:
-// https://github.com/facebook/flow/issues/167
+/* @flow */
 'use strict' // eslint-disable-line strict
 const _ = require('lodash')
 const assert = require('assert')

@@ -1,3 +1,4 @@
+/* @flow */
 'use strict' // eslint-disable-line strict
 const keypairs = require('ripple-keypairs')
 const common = require('../common')

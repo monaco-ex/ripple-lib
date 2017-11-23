@@ -1,3 +1,4 @@
+/* @flow */
 'use strict' // eslint-disable-line strict
 const _ = require('lodash')
 const {convertKeysFromSnakeCaseToCamelCase} = require('./utils')

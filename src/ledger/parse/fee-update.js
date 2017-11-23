@@ -1,3 +1,4 @@
+/* @flow */
 'use strict' // eslint-disable-line strict
 const BigNumber = require('bignumber.js')
 const {dropsToXrp} = require('./utils')
